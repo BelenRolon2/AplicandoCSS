@@ -13,6 +13,12 @@ body{
     height: 50%;
 }
 
+/* LISTA DENTRO DEL NAV*/
+
+.clase1{
+    list-style: none;
+}
+
 /* MAIN CLASE 2*/
 
 .clase2{
@@ -38,6 +44,7 @@ body{
     border-color: black;
     border-style: solid;
     border-width: 1px;
+    margin-top: 10px;
 }
 
 /* HORARIOS DE ATENCIÓN DIAS EN NEGRITA*/
